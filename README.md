@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/Martichou/martichou/master/hi.gif" width="30px">
 
-<!--
-**Martichou/martichou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#">
+    <img  align="center"  alt="GID"  src="https://raw.githubusercontent.com/Martichou/martichou/master/ship.webp" width=300 >
+  </a>
+  <a href="#">
+    <img  align="center"  alt="GIF"  src="https://raw.githubusercontent.com/Martichou/martichou/master/type.gif" width=300 />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...
+
+```javascript
+const belgian = {
+  pronouns: "he" | "his" | "🕺",
+  code: ["Python","Rust","Kotlin","C"],
+  tools: ["Django","AndroidSDK","MariaDB","Postgres","Docker"],
+  specifications: ["fast_learner","anything_feeling_good","music_lover"],
+  challenge: "COME AND CHALLENGE ME, I DARE YOU ! 😈"
+}
+```
