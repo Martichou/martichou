@@ -15,9 +15,9 @@
 ```javascript
 const belgian = {
   pronouns: "he" | "his" | "🕺",
-  code: ["Python","Rust","Kotlin","C"],
-  tools: ["Django","AndroidSDK","MariaDB","Postgres","Docker"],
+  code: ["Rust","C", "C++", "Python", "SQL", ...],
+  tools: ["Postgres","Docker", "Unix", ...],
   specifications: ["fast_learner","anything_feeling_good","music_lover"],
-  challenge: "COME AND CHALLENGE ME, I DARE YOU ! 😈"
+  challenge: "Always up for a challenge."
 }
 ```
