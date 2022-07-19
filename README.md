@@ -1,6 +1,6 @@
 <h3>
 Hi! <img src="https://raw.githubusercontent.com/Martichou/martichou/master/hi.gif" height="30px" width="30px"><br>
-I'm Martin<br>a R&D Engineer and overall IT enthusiast
+I'm Martin<br>an R&D Engineer and overall IT enthusiast
 </h3>
 
 <h6>You're welcome to stalk my Github profile, some of the most<br>
