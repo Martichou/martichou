@@ -1,19 +1,11 @@
-##  Hello World! <img src="https://raw.githubusercontent.com/Martichou/martichou/master/hi.gif" height="30px" width="30px">
+<h3>
+Hi! <img src="https://raw.githubusercontent.com/Martichou/martichou/master/hi.gif" height="30px" width="30px"><br>
+I'm Martin<br>a R&D Engineer and overall IT enthusiast
+</h3>
 
-<p align="center">
-  <img alt="Light" src="https://raw.githubusercontent.com/Martichou/martichou/master/ship.webp" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://raw.githubusercontent.com/Martichou/martichou/master/type.gif" width="45%">
-</p>
+<h6>You're welcome to stalk my Github profile, some of the most<br>
+interesting projects I've worked on are pinned, but feel free to explore :)<br>
+(you like Rust? nice, me too :heart:)
+</h6>
 
-### A little more about me...
-
-```javascript
-const belgian = {
-  pronouns: "he" | "his" | "🕺",
-  code: ["Rust","C", "C++", "Python", "SQL", ...],
-  tools: ["Postgres","Docker", "Unix", ...],
-  specifications: ["fast_learner","anything_feeling_good","music_lover"],
-  challenge: "Always up for a challenge."
-}
-```
+<h6>Currently my biggest personal project is <a href="https://speculare.cloud">Speculare</a>, a monitoring solution built from scratch.</h6>
