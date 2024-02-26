@@ -8,4 +8,8 @@ interesting projects I've worked on are pinned, but feel free to explore :)<br>
 (you like Rust? nice, me too :heart:)
 </h6>
 
-<h6>Currently my biggest personal project is <a href="https://speculare.cloud">Speculare</a>, a monitoring solution built from scratch.</h6>
+<h6>Currently my biggest personal project are:
+  
+  - <a href="https://speculare.cloud">Speculare</a>, a monitoring solution built from scratch
+  - <a href="https://github.com/Martichou/rquickshare">RQuickShare</a>, NearbyShare/QuickShare compatible client for Linux
+</h6>
