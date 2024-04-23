@@ -9,7 +9,7 @@ interesting projects I've worked on are pinned, but feel free to explore :)<br>
 </h6>
 
 <h6>Currently my biggest personal project are:
-  
-  - <a href="https://speculare.cloud">Speculare</a>, a monitoring solution built from scratch
+
+  - <a href="https://github.com/speculare-cloud">Speculare</a>, a monitoring solution built from scratch
   - <a href="https://github.com/Martichou/rquickshare">RQuickShare</a>, NearbyShare/QuickShare compatible client for Linux
 </h6>
